@@ -1,6 +1,6 @@
 # NeoVim/LazyVim Config
 My config for NeoVim/LazyVim
-Note: .vimrc is for VScode
+- Note: **.vimrc** is for VScode
 
 ## Features
 - Autosave on text change or insert to normal mode switch.
